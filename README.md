@@ -1,5 +1,5 @@
 # One-of-the-winning-Mtoto-News-solutions-from-DrFad
-This is the 3rd place solution to the Mtoto News Childline Kenya Call Prediction Challenge. It was written by DrFad, a data scientist on the Zindi.
+This is the 3rd place solution to the Mtoto News Childline Kenya Call Prediction Challenge. It was written by DrFad, a data scientist in the Zindi community.
 
 About the competition:
 The objective of the competition was to create a forecasting model to predict the number of incoming calls that Childline Kenya will receive per hour per day.
